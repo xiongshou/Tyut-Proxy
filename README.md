@@ -1,6 +1,6 @@
 [![JMrPc4.md.png](https://s1.ax1x.com/2020/04/20/JMrPc4.md.png)](https://imgchr.com/i/JMrPc4)
 ---
-![](https://img.shields.io/badge/language-Python-orange.svg) ![](https://img.shields.io/badge/license-MIT-000000.svg) ![](https://img.shields.io/badge/version-1.1.0-yellow) [![GitHub stars](https://img.shields.io/github/stars/snake-lvyonghao/Tyut-Proxy)](https://github.com/snake-lvyonghao/Tyut-Proxy/stargazers) [![GitHub issues](https://img.shields.io/github/issues/snake-lvyonghao/Tyut-Proxy)](https://github.com/snake-lvyonghao/Tyut-Proxy/issues) 
+![](https://img.shields.io/badge/language-Python-orange.svg) ![](https://img.shields.io/badge/license-MIT-000000.svg) ![](https://img.shields.io/badge/version-1.1.2-yellow) [![GitHub stars](https://img.shields.io/github/stars/snake-lvyonghao/Tyut-Proxy)](https://github.com/snake-lvyonghao/Tyut-Proxy/stargazers) [![GitHub issues](https://img.shields.io/github/issues/snake-lvyonghao/Tyut-Proxy)](https://github.com/snake-lvyonghao/Tyut-Proxy/issues) 
 ## 版本1.1.2更新 2020-4-20
 本次对项目做了进一步的优化，更新主要内容更有：
 + 移除项目Scrapy中测试用的Spider_request爬虫，新增校验账号Spider
